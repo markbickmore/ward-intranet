@@ -1,2 +1,0 @@
-# ward-intranet
-Ward Intranet
