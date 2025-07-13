@@ -1,9 +1,6 @@
 import React from 'react';
+import ReactDOM from 'react-dom';
+import App from './App';
+import './styles/global.css';
 
-function App() {
-  return <h1>Ward Intranet is Live!</h1>;
-}
-
-export default App;
-
-
+ReactDOM.render(<App />, document.getElementById('root'));
